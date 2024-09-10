@@ -90,21 +90,6 @@
                         <tr>
                             <td class="border px-4 py-2">Song 1</td>
                         </tr>
-                        <tr>
-                            <td class="border px-4 py-2">Song 2</td>
-                        </tr>
-                        <tr>
-                            <td class="border px-4 py-2">Song 3</td>
-                        </tr>
-                        <tr>
-                            <td class="border px-4 py-2">Song 4</td>
-                        </tr>
-                        <tr>
-                            <td class="border px-4 py-2">Song 5</td>
-                        </tr>
-                        <tr>
-                            <td class="border px-4 py-2">Song 6</td>
-                        </tr>
                     </tbody>
                 </table>
             </div>
